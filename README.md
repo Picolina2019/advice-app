@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Description: advice app help you get an answer when you need it.
+
 ## Available Scripts
 
 In the project directory, you can run:
